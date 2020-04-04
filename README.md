@@ -1,4 +1,5 @@
 # Nodejs-ES6-Boilerplate
+[![Made in Indonesia](https://made-in-indonesia.github.io/made-in-indonesia.svg)](https://github.com/made-in-indonesia/made-in-indonesia)
 
 A Node.js boilerplate with ES6, ESLint, and Prettier
 
