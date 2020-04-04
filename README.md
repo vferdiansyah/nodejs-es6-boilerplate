@@ -57,5 +57,5 @@ $ npm i
 
 ## License
 
-Copyright (c) 2019 Veri Ferdiansyah
+Copyright (c) 2020 Veri Ferdiansyah  
 Licensed under the MIT license.
